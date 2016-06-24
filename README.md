@@ -1,2 +1,4 @@
 # 3D-Tic-Tac-Toe
-3D Tic-Tac-Toe game against AI.  Written for an introductory C/C++ course Fall 2015.  C++
+Language: C++
+Coursework for CECS 130 Intro to Programming Languages
+Professor: Dr. Roman Yampolski
